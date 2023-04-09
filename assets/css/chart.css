@@ -1,0 +1,102 @@
+
+#chart {
+  width: auto;
+  height: 300;
+  display: block;
+  width: 980px;
+}
+
+#chart #numbers {
+  height: 100%;
+  width: 30px;
+  margin: 0;
+  padding: 0;
+  float: left;
+  display: flex;
+  flex-direction: column;
+}
+
+#chart #numbers li {
+  text-align: right;
+  padding-right: 1rem;
+  list-style: none;
+  position: relative;
+  height: 80px;
+  display: block;
+}
+
+#chart #numbers li:last-child { height: 30px; }
+
+#chart #bars {
+  background: var(--bgColor);
+  width: auto;
+  height: 190px;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  border-radius: 10px;
+  align-items: center;
+  /* padding-right: 20px; */
+}
+
+#chart #bars li {
+  width: 16px;
+  height: 90%;
+  margin: 0;
+  text-align: center;
+  position: relative;
+  margin-right: 16px;
+}
+
+#chart #bars li .bar {
+  display: block;
+  width: 16px;
+  margin-left: 15px;
+  position: absolute;
+  bottom: 0;
+  background: linear-gradient(158deg, #FF8103, #F6E0AC);
+  font-size: 13px;
+}
+
+#chart #bars li .bar:hover {
+  cursor: pointer;
+}
+
+#chart #bars li .bar:hover:before {
+  color: white;
+  content: attr(data-percentage) '%';
+  position: relative;
+  bottom: 20px;
+}
+
+#chart #bars li span {
+  color: #eee;
+  width: 100%;
+  position: absolute;
+  bottom: -35px;
+  left: 73%;
+  text-align: center;
+  font-size: 13px;
+  text-transform: capitalize;
+}
+
+.year_text {
+    position: absolute;
+    bottom: -55px;
+    left: 25px;
+    font-size: 14px;
+}
+
+.year_text:after {
+    content: "";
+    position: absolute;
+    top: -28px;
+    width: 1px;
+    height: 30px;
+    background: #484848;
+    left: 44%;
+}
+
+.year_text p {
+    margin: 0;
+}

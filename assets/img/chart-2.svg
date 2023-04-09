@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="981" height="218" viewBox="0 0 981 218">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9a03"/>
+      <stop offset="1" stop-color="#f6e0ac"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8903"/>
+      <stop offset="1" stop-color="#f6e0ac"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9203"/>
+      <stop offset="1" stop-color="#f6e0ac"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-17" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7903"/>
+      <stop offset="1" stop-color="#f6e0ac"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-19" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff4803"/>
+      <stop offset="1" stop-color="#f6e0ac"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-26" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8830e"/>
+      <stop offset="1" stop-color="#f6e0ac"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-29" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7003"/>
+      <stop offset="1" stop-color="#f6e0ac"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_41" data-name="Group 41" transform="translate(-852 -145)">
+    <text id="Jan" transform="translate(895 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jan</tspan></text>
+    <text id="_10" data-name="10" transform="translate(852 160)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10</tspan></text>
+    <text id="_5" data-name="5" transform="translate(857 236)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5</tspan></text>
+    <text id="_0" data-name="0" transform="translate(857 312)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">0</tspan></text>
+    <text id="Jan-2" data-name="Jan" transform="translate(1286 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jan</tspan></text>
+    <text id="Jan-3" data-name="Jan" transform="translate(1677 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jan</tspan></text>
+    <text id="Feb" transform="translate(925 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Feb</tspan></text>
+    <text id="Feb-2" data-name="Feb" transform="translate(1316 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Feb</tspan></text>
+    <text id="Feb-3" data-name="Feb" transform="translate(1707 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Feb</tspan></text>
+    <text id="Mar" transform="translate(957 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Mar</tspan></text>
+    <text id="Mar-2" data-name="Mar" transform="translate(1348 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Mar</tspan></text>
+    <text id="Mar-3" data-name="Mar" transform="translate(1739 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Mar</tspan></text>
+    <text id="Apr" transform="translate(992 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Apr</tspan></text>
+    <text id="Apr-2" data-name="Apr" transform="translate(1383 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Apr</tspan></text>
+    <text id="Apr-3" data-name="Apr" transform="translate(1774 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Apr</tspan></text>
+    <text id="May" transform="translate(1024 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">May</tspan></text>
+    <text id="May-2" data-name="May" transform="translate(1415 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">May</tspan></text>
+    <text id="May-3" data-name="May" transform="translate(1806 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">May</tspan></text>
+    <text id="Jun" transform="translate(1060 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jun</tspan></text>
+    <text id="Jun-2" data-name="Jun" transform="translate(1451 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jun</tspan></text>
+    <text id="Jul" transform="translate(1091 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jul</tspan></text>
+    <text id="Jul-2" data-name="Jul" transform="translate(1482 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jul</tspan></text>
+    <text id="Aug" transform="translate(1117 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Aug</tspan></text>
+    <text id="Aug-2" data-name="Aug" transform="translate(1508 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Aug</tspan></text>
+    <text id="Sep" transform="translate(1152 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sep</tspan></text>
+    <text id="Sep-2" data-name="Sep" transform="translate(1543 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sep</tspan></text>
+    <text id="Oct" transform="translate(1185 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Oct</tspan></text>
+    <text id="Oct-2" data-name="Oct" transform="translate(1576 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Oct</tspan></text>
+    <text id="Nov" transform="translate(1217 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Nov</tspan></text>
+    <text id="Nov-2" data-name="Nov" transform="translate(1608 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Nov</tspan></text>
+    <text id="Dec" transform="translate(1252 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Dec</tspan></text>
+    <text id="_2020" data-name="2020" transform="translate(1267 359)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2020</tspan></text>
+    <text id="_2021" data-name="2021" transform="translate(1659 359)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2021</tspan></text>
+    <text id="Dec-2" data-name="Dec" transform="translate(1643 341)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Dec</tspan></text>
+    <rect id="Rectangle_63" data-name="Rectangle 63" width="16" height="110" transform="translate(898 201)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_86" data-name="Rectangle 86" width="16" height="156" transform="translate(1287 155)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_87" data-name="Rectangle 87" width="16" height="143" transform="translate(1678 168)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_64" data-name="Rectangle 64" width="16" height="121" transform="translate(928 190)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_85" data-name="Rectangle 85" width="16" height="156" transform="translate(1317 155)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_88" data-name="Rectangle 88" width="16" height="156" transform="translate(1708 155)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_65" data-name="Rectangle 65" width="16" height="117" transform="translate(962 194)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_84" data-name="Rectangle 84" width="16" height="156" transform="translate(1351 155)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_89" data-name="Rectangle 89" width="16" height="147" transform="translate(1742 164)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_66" data-name="Rectangle 66" width="16" height="105" transform="translate(995 206)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_83" data-name="Rectangle 83" width="16" height="110" transform="translate(1384 201)" fill="url(#linear-gradient-11)"/>
+    <rect id="Rectangle_90" data-name="Rectangle 90" width="16" height="153" transform="translate(1775 158)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_67" data-name="Rectangle 67" width="16" height="105" transform="translate(1029 206)" fill="url(#linear-gradient-13)"/>
+    <rect id="Rectangle_82" data-name="Rectangle 82" width="16" height="137" transform="translate(1418 174)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_91" data-name="Rectangle 91" width="16" height="153" transform="translate(1809 158)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_68" data-name="Rectangle 68" width="16" height="117" transform="translate(1063 194)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_81" data-name="Rectangle 81" width="16" height="105" transform="translate(1452 206)" fill="url(#linear-gradient-17)"/>
+    <rect id="Rectangle_69" data-name="Rectangle 69" width="16" height="105" transform="translate(1091 206)" fill="url(#linear-gradient-11)"/>
+    <rect id="Rectangle_80" data-name="Rectangle 80" width="16" height="84" transform="translate(1480 227)" fill="url(#linear-gradient-19)"/>
+    <rect id="Rectangle_70" data-name="Rectangle 70" width="16" height="117" transform="translate(1122 194)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="16" height="143" transform="translate(1511 168)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_71" data-name="Rectangle 71" width="16" height="123" transform="translate(1155 188)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_77" data-name="Rectangle 77" width="16" height="153" transform="translate(1544 158)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_72" data-name="Rectangle 72" width="16" height="123" transform="translate(1188 188)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_78" data-name="Rectangle 78" width="16" height="156" transform="translate(1577 155)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_73" data-name="Rectangle 73" width="16" height="110" transform="translate(1222 201)" fill="url(#linear-gradient-26)"/>
+    <rect id="Rectangle_76" data-name="Rectangle 76" width="16" height="123" transform="translate(1611 188)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_74" data-name="Rectangle 74" width="16" height="147" transform="translate(1256 164)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_75" data-name="Rectangle 75" width="16" height="105" transform="translate(1645 206)" fill="url(#linear-gradient-29)"/>
+  </g>
+</svg>
